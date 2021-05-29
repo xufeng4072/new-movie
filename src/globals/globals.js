@@ -1,0 +1,3 @@
+export const API_KEY = '48410e2c724058c446277e8ed8f2152d';
+export const API_TOKEN = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0ODQxMGUyYzcyNDA1OGM0NDYyNzdlOGVkOGYyMTUyZCIsInN1YiI6IjYwOGFlMTZkNjY0NjlhMDA0MjhjN2U1YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.sxTsU3gyAGlv3uGb9sVZm2vW8MBAWbIT_Gx8r8sRvYs';
+export const APP_FOLDER_NAME = 'new-movie';
